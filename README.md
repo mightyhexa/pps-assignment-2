@@ -5,8 +5,8 @@
 **Branch:** CSM-A | I-BE, I-Semester (LR26)
 **Unit:** 2
 
-**Name:** YOUR NAME
-**Roll No:** YOUR ROLL NUMBER
+**Name:** MOHAMMED FAHAD ALI
+**Roll No:** 160926748041
 
 ## About
 C solutions for Assignment-2, solved and accepted on HackerRank.
